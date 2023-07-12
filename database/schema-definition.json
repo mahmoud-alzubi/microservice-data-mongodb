@@ -1,0 +1,161 @@
+{
+  "count": 1,
+  "fields": [
+    {
+      "name": "_id",
+      "path": [
+        "_id"
+      ],
+      "count": 1,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "_id"
+          ],
+          "count": 1,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            "1"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "_class",
+      "path": [
+        "_class"
+      ],
+      "count": 1,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "_class"
+          ],
+          "count": 1,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            "com.mtech.microservicedatamongodb.model.Expense"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "amount",
+      "path": [
+        "amount"
+      ],
+      "count": 1,
+      "type": "Double",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "Double",
+          "path": [
+            "amount"
+          ],
+          "count": 1,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            25.99
+          ],
+          "bsonType": "Double"
+        }
+      ]
+    },
+    {
+      "name": "category",
+      "path": [
+        "category"
+      ],
+      "count": 1,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "category"
+          ],
+          "count": 1,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            "FOOD"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "description",
+      "path": [
+        "description"
+      ],
+      "count": 1,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "description"
+          ],
+          "count": 1,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            "This is the first expense"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "path": [
+        "name"
+      ],
+      "count": 1,
+      "type": "String",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "name"
+          ],
+          "count": 1,
+          "probability": 1,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            "Expense 1"
+          ],
+          "bsonType": "String"
+        }
+      ]
+    }
+  ]
+}
